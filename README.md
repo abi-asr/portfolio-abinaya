@@ -78,3 +78,4 @@ npx tsc --noEmit
 - **Database**: SQLite (via `better-sqlite3` with WAL mode & foreign keys)
 - **Testing**: Vitest 2.1
 - **Deployment Ready**: Self-contained SQLite database file with automatic table initialization on launch.
+
